@@ -32,14 +32,14 @@ Mapa com localização dos eventos: Especialmente útil se os eventos forem em d
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Gabriel Oliveira Gonzaga Araújo
+- Matricula: 915738
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>  ![home](images/produtoshome.png)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>  ![detalhe](images/detalhesprodutos.png)
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >> ![graficos](images/analytics.png)
 

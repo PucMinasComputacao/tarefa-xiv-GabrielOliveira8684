@@ -1,0 +1,175 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "titulo": "Mochila de Trekking 50L",
+      "descricaoCurta": "Mochila resistente para trilhas longas",
+      "descricaoCompleta": "Mochila de trekking com capacidade de 50 litros, feita em nylon de alta resistência. Possui costas anatômicas, múltiplos compartimentos e alças ergonômicas para melhor distribuição de peso.",
+      "imagem": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
+      "categoria": "Mochilas",
+      "preco": 299.90,
+      "tags": ["trekking", "grande", "resistente"],
+      "destaque": true
+    },
+    {
+      "id": 2,
+      "titulo": "Barraca de Camping 2 Pessoas",
+      "descricaoCurta": "Barraca compacta e leve para acampamentos",
+      "descricaoCompleta": "Barraca com capacidade para 2 pessoas, fabricada em poliéster resistente à água. Fácil de montar, possui ventilação adequada e é ideal para acampamentos em diferentes terrenos.",
+      "imagem": "https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?w=500",
+      "categoria": "Barracas",
+      "preco": 189.90,
+      "tags": ["camping", "2pessoas", "impermeável"],
+      "destaque": true
+    },
+    {
+      "id": 3,
+      "titulo": "Bota de Trilha Impermeável",
+      "descricaoCurta": "Bota robusta com proteção contra água",
+      "descricaoCompleta": "Bota de hiking com membrana impermeável, solado anti-derrapante e suporte para tornozelo. Confortável para trilhas de longa duração em terrenos variados.",
+      "imagem": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500",
+      "categoria": "Calçados",
+      "preco": 249.90,
+      "tags": ["bota", "impermeável", "conforto"],
+      "destaque": false
+    },
+    {
+      "id": 4,
+      "titulo": "Colchonete Inflável Compacto",
+      "descricaoCurta": "Isolante térmico leve e portátil",
+      "descricaoCompleta": "Colchonete auto-inflável com espuma de alta densidade. Oferece isolamento térmico eficiente, é compacto quando embalado e confortável para dormir em acampamentos.",
+      "imagem": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=500",
+      "categoria": "Dorminhoco",
+      "preco": 89.90,
+      "tags": ["leve", "compacto", "isolamento"],
+      "destaque": false
+    },
+    {
+      "id": 5,
+      "titulo": "Jaqueta Impermeável para Trilha",
+      "descricaoCurta": "Proteção contra chuva e vento",
+      "descricaoCompleta": "Jaqueta com membrana impermeável e respirável, costura selada e capuz ajustável. Ideal para proteger contra chuva e vento durante trilhas em montanha.",
+      "imagem": "https://images.unsplash.com/photo-1441981879433-c9477b24d854?w=500",
+      "categoria": "Roupas",
+      "preco": 179.90,
+      "tags": ["jaqueta", "impermeável", "respirável"],
+      "destaque": true
+    },
+    {
+      "id": 6,
+      "titulo": "Lanterna Frontal LED",
+      "descricaoCurta": "Iluminação portátil para trilhas noturnas",
+      "descricaoCompleta": "Lanterna frontal com LED de alta potência, bateria recarregável e até 20 horas de duração. Ideal para trilhas em horários de baixa luminosidade.",
+      "imagem": "https://images.unsplash.com/photo-1607706009062-94e37467dee1?w=500",
+      "categoria": "Acessórios",
+      "preco": 59.90,
+      "tags": ["led", "recarregável", "portátil"],
+      "destaque": false
+    },
+    {
+      "id": 7,
+      "titulo": "Bolsa de Hidratação 3L",
+      "descricaoCurta": "Sistema de hidratação prático",
+      "descricaoCompleta": "Mochila com bolsa de hidratação integrada de 3 litros. Possui mangueira com ponta mordida e diversos bolsos para organização de pertences durante trilhas.",
+      "imagem": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500",
+      "categoria": "Mochilas",
+      "preco": 129.90,
+      "tags": ["hidratação", "prático", "integrado"],
+      "destaque": false
+    },
+    {
+      "id": 8,
+      "titulo": "Saco de Dormir Térmico",
+      "descricaoCurta": "Cobertor quentinho para acampamentos",
+      "descricaoCompleta": "Saco de dormir com isolamento térmico para temperaturas de até -5°C. Fabricado em poliéster de qualidade, fechamento tipo zíper e compacto para transportar.",
+      "imagem": "https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?w=500",
+      "categoria": "Dorminhoco",
+      "preco": 149.90,
+      "tags": ["saco", "térmico", "quentinho"],
+      "destaque": true
+    },
+    {
+      "id": 9,
+      "titulo": "Bastão de Trilha Dobrável",
+      "descricaoCurta": "Suporte para melhor equilibrio",
+      "descricaoCompleta": "Par de bastões de trekking em alumínio, ajustáveis e dobráveis para facilitar transporte. Reduz impacto nas articulações durante descidas em trilhas.",
+      "imagem": "https://images.unsplash.com/photo-1539571696357-5a69c006ae0f?w=500",
+      "categoria": "Acessórios",
+      "preco": 79.90,
+      "tags": ["bastão", "dobrável", "alumínio"],
+      "destaque": false
+    },
+    {
+      "id": 10,
+      "titulo": "Queimador Portátil a Gás",
+      "descricaoCurta": "Fogão compacto para acampamento",
+      "descricaoCompleta": "Queimador portátil a gás butano com regulagem de chama. Compatível com cartucho de gás padrão, ideal para cozinhar e aquecer água durante acampamentos.",
+      "imagem": "https://images.unsplash.com/photo-1555940131b8-28276c4d97a0?w=500",
+      "categoria": "Cozinha",
+      "preco": 69.90,
+      "tags": ["fogão", "portátil", "gás"],
+      "destaque": false
+    },
+    {
+      "id": 11,
+      "titulo": "Kit Ferramentas Multi-Uso",
+      "descricaoCurta": "Ferramenta versátil com múltiplas funções",
+      "descricaoCompleta": "Kit com facão, abridor, chave inglesa e outras ferramentas em uma capa compacta. Indispensável para manutenção básica durante trilhas e acampamentos.",
+      "imagem": "https://images.unsplash.com/photo-1530124566582-a618bc2615dc?w=500",
+      "categoria": "Acessórios",
+      "preco": 89.90,
+      "tags": ["multi-uso", "ferramentas", "compacto"],
+      "destaque": false
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Mochilas"
+    },
+    {
+      "id": 2,
+      "nome": "Barracas"
+    },
+    {
+      "id": 3,
+      "nome": "Calçados"
+    },
+    {
+      "id": 4,
+      "nome": "Dorminhoco"
+    },
+    {
+      "id": 5,
+      "nome": "Roupas"
+    },
+    {
+      "id": 6,
+      "nome": "Acessórios"
+    },
+    {
+      "id": 7,
+      "nome": "Cozinha"
+    }
+  ],
+  "avaliacoes": [
+    {
+      "id": 1,
+      "produtoId": 1,
+      "nota": 4.8,
+      "total": 25
+    },
+    {
+      "id": 2,
+      "produtoId": 2,
+      "nota": 4.5,
+      "total": 18
+    },
+    {
+      "id": 3,
+      "produtoId": 5,
+      "nota": 4.9,
+      "total": 32
+    }
+  ]
+}
